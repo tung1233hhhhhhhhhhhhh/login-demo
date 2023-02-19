@@ -48,7 +48,7 @@ body {
     background-image: linear-gradient(to top, #c6ffdd, #fbd786, #f7797d);
     border-radius: 10px;
     box-shadow: 0 0 20px #f6f163;
-    animation: FormAnimation ease-in .7s;
+    animation: FormAnimation ease-in .9s;
 }
 
 .main .form-box .text {
